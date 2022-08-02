@@ -1,5 +1,6 @@
 <h1 align="center">Hi There 👋, I'm Vyshnavi V</h1>
 <h3 align="center">CSE Student at College Of Engineering Chengannur</h3>
+<img align="right" alt="Coding" width="400" src="https://arieljakubowski.medium.com/i-passed-every-coding-challenge-at-flatiron-school-my-first-try-heres-how-23302a1bfe46">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vyshnavi-v&label=Profile%20views&color=0e75b6&style=flat" alt="vyshnavi-v" /> </p>
 

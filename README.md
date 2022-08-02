@@ -1,8 +1,8 @@
 <h1 align="center">Hi There 👋, I'm Vyshnavi V</h1>
 <h3 align="center">CSE Student at College Of Engineering Chengannur</h3>
-<img align="right" alt="Coding" width="200" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
-
+<p align="center"><img align="center" alt="Coding" width="350" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif"></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vyshnavi-v&label=Profile%20views&color=0e75b6&style=flat" alt="vyshnavi-v" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vyshnavi-v" alt="vyshnavi-v" /></a> </p>
 
